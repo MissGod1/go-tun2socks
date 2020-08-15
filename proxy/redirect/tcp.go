@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/eycorsican/go-tun2socks/common/log"
-	"github.com/eycorsican/go-tun2socks/core"
+	"github.com/MissGod1/go-tun2socks/common/log"
+	"github.com/MissGod1/go-tun2socks/core"
 )
 
 // To do a benchmark using iperf3 locally, you may follow these steps:

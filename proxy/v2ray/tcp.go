@@ -11,8 +11,8 @@ import (
 	vnet "v2ray.com/core/common/net"
 	vsession "v2ray.com/core/common/session"
 
-	"github.com/eycorsican/go-tun2socks/common/log"
-	"github.com/eycorsican/go-tun2socks/core"
+	"github.com/MissGod1/go-tun2socks/common/log"
+	"github.com/MissGod1/go-tun2socks/core"
 )
 
 type tcpConnEntry struct {

@@ -9,9 +9,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/eycorsican/go-tun2socks/common/dns"
-	"github.com/eycorsican/go-tun2socks/common/log"
-	"github.com/eycorsican/go-tun2socks/core"
+	"github.com/MissGod1/go-tun2socks/common/dns"
+	"github.com/MissGod1/go-tun2socks/common/log"
+	"github.com/MissGod1/go-tun2socks/core"
 )
 
 type udpHandler struct {
